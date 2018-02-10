@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "pcm-util": "^3.0.0",
-    "bonescript": "0.6.2"
+    "bonescript": "0.6.2",
+    "tail": "1.2.3"
   }
 }
